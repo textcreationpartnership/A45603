@@ -1,0 +1,576 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The harmless opinion of the revolution of humane souls as a probable hypothesis, and very serviceable to clear many doubts, and answer many objections of atheists against the divine providence, and the Holy Scriptures. Modestly defended in a reply to a late treatise, signed by J.H. printed at Oxford, and called by him, An answer to some queries, proposed by W.C. or a refutation of Helmont's pernicious error, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 70 KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45603</idno>
+            <idno type="STC">Wing H799A</idno>
+            <idno type="STC">ESTC R221587</idno>
+            <idno type="EEBO-CITATION">99832883</idno>
+            <idno type="PROQUEST">99832883</idno>
+            <idno type="VID">37358</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45603)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37358)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2187:09)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The harmless opinion of the revolution of humane souls as a probable hypothesis, and very serviceable to clear many doubts, and answer many objections of atheists against the divine providence, and the Holy Scriptures. Modestly defended in a reply to a late treatise, signed by J.H. printed at Oxford, and called by him, An answer to some queries, proposed by W.C. or a refutation of Helmont's pernicious error, &amp;c.</title>
+               </titleStmt>
+               <extent>48 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Sarah Howkins, in George-yard, Lumbard street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With an initial errata page.</note>
+                  <note>In response to Hall, John.  An answer to some queries propos'd by W.C.</note>
+                  <note>Reproduction of the original in the Sion College Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hall, John, 1627-1656. --  Answer to some queries propos'd by W.C. --  Early works to 1800.</term>
+               <term>Reincarnation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37358:1"/>
+            <pb facs="tcp:37358:1" rendition="simple:additions"/>
+            <p>THE HARMLESS OPINION OF THE REVOLUTION OF Humane Souls; As a probable HYPOTHESIS, And very ſerviceable to clear many DOUBTS, And anſwer many Objections of <hi>ATHEISTS</hi> AGAINST THE Divine Providence, AND THE HOLY SCRIPTURES.</p>
+            <p>Modeſtly defended in a Reply to a late Treatiſe, Signed by <hi>J. H.</hi> Printed at <hi>Ox<g ref="char:EOLhyphen"/>ford,</hi> and called by him, An Anſwer to ſome <hi>Queries,</hi> propoſed by <hi>W. C.</hi> or a Re<g ref="char:EOLhyphen"/>futation of <hi>Helmont</hi>'s Pernicious Error, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Sarah Ho<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kins,</hi> in <hi>George-yard, Lumbard ſtreet,</hi> 1694.</p>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:37358:2"/>
+            <head>ERRATA.</head>
+            <p>PAge 14. line 27. read <hi>their <g ref="char:V">Ʋ</g>nbelief,</hi> p. 19. l. 24. r. <hi>querie.</hi> p. 20. l. 20. r. <hi>room,</hi> p. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>1. for <hi>envying,</hi> r. <hi>inveighing</hi> ib. l. 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> after <hi>to wit,</hi> r. <hi>not,</hi> p. 23. r. <hi>Memoirs,</hi> p. 25. l. 1. r. <hi>good,</hi> l. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> after <hi>Allegories,</hi> r. <hi>prove,</hi> l. 11. f. <hi>material,</hi> r. <hi>natural,</hi> l. 21. f. <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>verſion,</hi> r. <hi>retorſion,</hi> p. 27. l. 14. f. <hi>raw,</hi> r. <hi>rape,</hi> p. 28. l. 22. <hi>ſûa,</hi> r. <hi>ſûo,</hi> p. 29. l. 12. f. <hi>work,</hi> r. <hi>ſtroke,</hi> p. 31. l. 15. af. <hi>Perſon</hi> add <hi>I anſwer no more then,</hi> p. 33. l. ult. f. <hi>Souls,</hi> r. <hi>Bodies,</hi> p. 3<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> l. 6. f. <hi>contract,</hi> r. <hi>tract,</hi> p. 45. dele. <hi>and that conſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ently o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Months and Days,</hi> p. 46. l. 6. r. <hi>Pythagoras,</hi> p. 48. l. 15. after l. r. <hi>have.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:37358:2"/>
+            <head>THE HARMLESS OPINION OF THE REVOLUTION OF Humane Souls, <hi>&amp;c.</hi>
+            </head>
+            <p>DIvers things in his Title Page need ſome Correction, or Animadverſi<g ref="char:EOLhyphen"/>on; 1. That he calleth it <hi>Helmont</hi>'s Error, and in the Body of his Trea<g ref="char:EOLhyphen"/>tiſe he calleth them that favour it, <hi>Helmonti<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s;</hi> but why it ſhould be aſcribed to <hi>Helmont</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y this Author, I know not, unleſs purpoſely <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o defame him, which ought not to be; nor <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ath he any more juſt Cauſe thus to aſperſe <hi>Belmont,</hi> than to aſperſe <hi>H. Moore,</hi> late of <hi>Cam<g ref="char:EOLhyphen"/>bridge;</hi> a Man of great Note, Fame, and Eſteem of the judgment of this Man's Brethren,
+<pb facs="tcp:37358:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:37358:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:37358:4"/>of his Profeſſion, for his aſſerting in ſome of his Printed Books, <hi>The Doctrine of he Pre-exiſtence of Humane Souls,</hi> that is of very near Affini<g ref="char:EOLhyphen"/>ty unto this of the <hi>Revolutions,</hi> yea ſo near, that it is lame, and inſignificant without it, ſo as to call the <hi>Doct<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ine of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>re-exiſtence</hi> Moore's <hi>Pernicious Error,</hi> or the favourers of it <hi>Mori<g ref="char:EOLhyphen"/>ans,</hi> a thing, neither Chriſtian, nor civil 2. That he calleth it not only <hi>Error,</hi> but <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Pernicious Error;</hi> he b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gs the Matter, but hath not proved it, as the ſequel may make appear to the Intelligent and Impartial Reader. 3. He miſ-repreſents the <hi>Hypotheſis</hi> of the <hi>Revolutions,</hi> as if it held, that every Man is often born, and hath twelve Ages <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Tryal allowed him in the World by God; b<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> it is not ſo affirmed univerſally and abſolutely but only conditionally upon the Suppoſition th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> they are not converted the firſt, ſecond, or thir<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> time, <hi>&amp;c.</hi> that they live in the World, ſo a rather than ſail, they ſhall have at leaſt ſo ma<g ref="char:EOLhyphen"/>ny; but ſuch who are converted unto God and perfectly reſtored out of the Fall the firs<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> time they live in the World, need no <hi>Revoluti<g ref="char:EOLhyphen"/>on,</hi> and have none, except in ſome extraordi<g ref="char:EOLhyphen"/>nary Caſe that they be ſent again to d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Good to others, as the <hi>Jews</hi> did judge ſome <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Prophets were, and as ſome (by <hi>Peter</hi>'s Te<g ref="char:EOLhyphen"/>ſtimony) judged our Saviour to be either <hi>Jere<g ref="char:EOLhyphen"/>miah</hi>
+               <pb n="5" facs="tcp:37358:4"/>or <hi>Elias,</hi> but that was their great Mi<g ref="char:EOLhyphen"/>ſtake. 4. That he ſaith it is warmly conten<g ref="char:EOLhyphen"/>ded for, in, and about <hi>Lambourn,</hi> in <hi>Wiltſhire.</hi> I ſuppoſe none there, or elſewhere, contend about it, as any Matter of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aith, but only ſhow their favouring it, as a probable and ſerviceable <hi>Hypotheſis,</hi> ſo making it rather a Subject of Phy<g ref="char:EOLhyphen"/>loſophy, than of Divinity, like the <hi>Hypotheſis</hi> of the Earth's Motion, now generally well liked by the moſt Learned; a thing, not many Years ago, as generally diſliked; and tho many pla<g ref="char:EOLhyphen"/>ces of Scripture ſeem to favour the Earth's Mo<g ref="char:EOLhyphen"/>tion, yet that will prove neither of them to be fit, to be made a Subject of Religious Con<g ref="char:EOLhyphen"/>troverſie, or Matter of Faith, ſo as either to impoſe the Faith of them upon our <hi>Chriſtian</hi> Brethren, or that any ſhould arraign the Fa<g ref="char:EOLhyphen"/>vourers of it as guilty of <hi>Pernicious Errors,</hi> deſtructive to the <hi>Chriſtian</hi> Faith, but rather let all exerciſe their <hi>Chriſtian</hi> Chatity one to<g ref="char:EOLhyphen"/>wards another, if they agree in the Funda<g ref="char:EOLhyphen"/>mental and Principal Matters of the <hi>Chriſtian</hi> Faith, and live Chriſtianly, allowing a Lati<g ref="char:EOLhyphen"/>tude in leſſer Matters to differ one from another in ſome particular Perſwaſions, whether Philo<g ref="char:EOLhyphen"/>ſophical, or Theological.</p>
+            <p>That in this Epiſtle he calleth it a Whimſi<g ref="char:EOLhyphen"/>cal, Abſurd, and Trifling <hi>Opinion,</hi> more Mo<g ref="char:EOLhyphen"/>deſty had better become him, whom he confeſ<g ref="char:EOLhyphen"/>ſeth
+<pb n="6" facs="tcp:37358:5"/>to be young; and if he be young in Years, his Book ſhoweth him to be younger in ſolid Knowledge, or ſound Learning, and that he is but a Novice, and bad Proficient in theſe Sciences mentioned by him (and whereof he profeſſeth himſelf skilful) called Phyſicks and Metaphyſicks. But as to the <hi>Opinion</hi> it ſelf, better and wiſer Men than he have thought it neither Whimſical nor Abſurd, but Ration<g ref="char:EOLhyphen"/>al; and ſeeing he hath judged it a trifling <hi>Opi<g ref="char:EOLhyphen"/>nion,</hi> why doth he judge it <hi>Pernicious,</hi> as ma<g ref="char:EOLhyphen"/>king God the Author of Sin, and contradicting the Doctrine of the Reſurrection (one of the great Fundamentals of the <hi>Chriſtian</hi> Faith) ſurely, that <hi>Opinion,</hi> which is ſo very <hi>Pernicious</hi> to the <hi>Chriſtian</hi> Faith, can be no trifling <hi>Opini<g ref="char:EOLhyphen"/>on,</hi> but of great Moment and Weight, not to be ſlighted as a trifling Matter, but oppoſed and refuted with ſtronger and better Arguments than this Author harh done; all that he hath ſaid againſt, it deſerving much, rather the name of a Triflle.</p>
+            <p>In his anſwer to the firſt <hi>Query,</hi> from <hi>Luke</hi> 6.38. and <hi>Matth.</hi> 7.2. <hi>The ſame meaſure you mete, the ſame ſhall be meaſured or meted to you again;</hi> he ſeemeth firſt to confine it to that of judg<g ref="char:EOLhyphen"/>ing, whereas it is clear from the Context, eſpecially in <hi>Luke,</hi> that it not only relates to judging, but alſo to Works of Charity. See
+<pb n="7" facs="tcp:37358:5"/>the foregoing words of the ſame Verſe, but af<g ref="char:EOLhyphen"/>terwards he alloweth it may be extended more generally, confeſſing the meaning of that Paſſage of Scripture above-cited may be, that thereby Chriſt doth threaten to puniſh Offenders in a way ſuitable to their Crimes; and beſides that, this Puniſhment is ſometimes inflicted in this Life, but (ſaith he) here's the point at which we part; he concludes, that if God ſhould fa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to puniſh an Offender before he cometh to his Grave, he muſt be born into the World again, to ſuffer in like manner, as he hath offended; whereas I conclude (he ſaith) concerning ſuch a one, that ſo dies un<g ref="char:EOLhyphen"/>puniſhed, that his Doom is deferred till the great Day of our Accounts; in order to which, he ſhall riſe again, and then ſhall God reward every Man according to his Works, citing <hi>Matth.</hi> 16.27. he adds, this Life is no time of Recompenſe, citing on the Margine, <hi>Eccleſ.</hi> 9.1, 2, 4. <hi>Job</hi> 21.7. <hi>Pſal.</hi> 73.5, 9.</p>
+            <p>
+               <hi>Reply.</hi> Why doth he ſo poſitively charge the Perſon, he anſwereth (with concluding) whereas he querieth, and ſhoweth himſelf ra<g ref="char:EOLhyphen"/>ther an Inquirer, than an Aſſerter, as to the ſenſe of this, and ſome other places of Scrip<g ref="char:EOLhyphen"/>ture: But for the better underſtanding the preſent Caſe, I propoſe the following Conſi<g ref="char:EOLhyphen"/>derations.
+<pb n="8" facs="tcp:37358:6"/>1. That every Offence that a Man commits againſt his Neighbour hath a two fold Guilt in it, one as it relates to God ano<g ref="char:EOLhyphen"/>ther as it relates to his Neighbour, whom he hath offended; the Offence againſt God is either forgiven upon ſincere Repentance, or if not repented of, is to be puniſhed after Death, at the great Day of Account; but the Offence or Guilt, as it relates to the Neighbour offend<g ref="char:EOLhyphen"/>ed, as in caſe of Oppreſſion, Murther, or the like, is not ſo pardoned upon ſincere Repen<g ref="char:EOLhyphen"/>tance, as not to be puniſhed either in this Life, or ſome time after, as probably by living again, and then receiving that puniſhment, if the Per<g ref="char:EOLhyphen"/>ſon offended have not Satisfaction made to him, or perhaps it may be allowed, that if the offended Perſon doth forgive the Offender upon his ſincere Acknowledgment of the Of<g ref="char:EOLhyphen"/>fence; Satisfaction being made that way, he is not liable to Puniſhment for it either in the preſent Life or the future. And is deſerv<g ref="char:EOLhyphen"/>eth our ſerious Conſideration, that God will not only have us ſeek his Forgivenneſs, in or<g ref="char:EOLhyphen"/>der to receive his Pardon, but we muſt ſeek Forgiveneſs from the Perſons that we have of<g ref="char:EOLhyphen"/>fended, in order to have them forgive us alſo, or otherwiſe there ſeemeth a Puniſhment, ſui<g ref="char:EOLhyphen"/>table to the Offence, to remain due to him that offendeth, which cannot be ſuppoſed to be at
+<pb n="9" facs="tcp:37358:6"/>the Day of Judgment in ſuch a particular Caſe, when the Offence is forgiven of God as to his part: And it is worthy alſo of Obſervation, that under the Law, in caſe of Theft or Rob<g ref="char:EOLhyphen"/>bery, no Sacrifice could avail without Reſtitu<g ref="char:EOLhyphen"/>tion, and in caſe of murder (even as it is at this day) Repentance doth not expiate the Crime; without giving Life for Life, as among Men, tho' poſſibly it may be allowed, that if one murther the other, and the Perſon murther'd ſincerely forgive him at the inſtant of death, it may ſo alter the Caſe, that the Puniſhment of Death may not be required of him in any following <hi>Revolution;</hi> for every Man hath a Right given him of God, as his Creator, to his Goods and Life; and if a Man take this Right from him by Injuſtice, Juſtice requi<g ref="char:EOLhyphen"/>reth it to be reſtored to him by ſome Satisfa<g ref="char:EOLhyphen"/>ction of the thing it ſelf, or the Equivalent, which to uſe the Author's Words, may be called the ſame Analogick meaſure. But now if God hath pardoned the Offence, as it im<g ref="char:EOLhyphen"/>mediately relates to him; but the Offended Perſon hath not pardoned it, it is no Analogous meaſure of Puniſhment, for the Offender to be caſt into Hell Fire, for his Offence barely a<g ref="char:EOLhyphen"/>gainſt his Neighbour, when God hath forgi<g ref="char:EOLhyphen"/>ven it, as it reſpecteth him; and therefore it ſeemeth probable it muſt be puniſhed with
+<pb n="10" facs="tcp:37358:7"/>ſome ſuitable and analogous Puniſhment, ei<g ref="char:EOLhyphen"/>ther in the preſent or <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uture Life by <hi>Revolution,</hi> before the Day of Judgment, ſeeing the Pu<g ref="char:EOLhyphen"/>niſhment of Hell Fire, (upon the ſuppoſition of God's forgiving what relates immediately to him is too ſevere and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o way Analogous in that Caſe; and ſeeing the places of Scripture above-cited, ſeem chiefly to relate to Men's Offences againſt their Neighbours, the Puniſh<g ref="char:EOLhyphen"/>ments ſeem chiefly, or rather only to relate to the times of Life here in this World, and not to that which is to come, when it may be ſup<g ref="char:EOLhyphen"/>poſed that God hath forgiven, or may forgive afterwards the Offence as immediately relative to himſelf. 2. It is a Maxim among the My<g ref="char:EOLhyphen"/>ſtick or Cabbaliſt Authors, that ſeemeth very agreeable both to Scripture and good Reaſon; <hi>ſi ſit judicium infra, non eſt judicium ſupra,</hi> i. e. If Judgment be executed here below in this World, it is not executed above, or in the World to come for the ſame Offence, for no Earthly Judge puniſheth twice for the ſame Offence; may it not therefore be allowed, that to pre<g ref="char:EOLhyphen"/>vent the ſevere Puniſhment of Hell Fire, that cometh upon the finally Impenitent, it pleaſ<g ref="char:EOLhyphen"/>eth God to puniſh Men here in this World with leſs ſevere Puniſhments than Hell Fire, which is the moſt ſevere, according to which there is a Maxim among the <hi>Hebrew</hi> Myſtick Authors,
+<pb n="11" facs="tcp:37358:7"/>that God doth puniſh the People of <hi>Iſrael</hi> with long and great Puniſhments in this World, that they may eſcape the more ſevere Puniſhment of Hell Fire in the World to come, they be<g ref="char:EOLhyphen"/>lieving that every <hi>Iſraelite</hi> ſhall inherit the Felicity of the World to come, however ſe<g ref="char:EOLhyphen"/>verely they are here puniſhed for their Sins, in order to their Amendment, all their Puniſh<g ref="char:EOLhyphen"/>ments here being Fatherly Corrections; and this may not only be extended to all the natu<g ref="char:EOLhyphen"/>ral Branches of <hi>Iſrael,</hi> but to all God's Elect and Heirs of Salvation, of <hi>Gentiles,</hi> as well as of <hi>Jews,</hi> and ſeemeth well warranted by Scrip<g ref="char:EOLhyphen"/>ture, both of the <hi>Old</hi> and <hi>New-Teſtament,</hi> that ſaith all <hi>Iſrael</hi> ſhall be ſaved, and the whole Houſe of <hi>Iſrael,</hi> which comprehendeth all God's Elect every where, both of <hi>Jews</hi> and <hi>Gentiles;</hi> and thus the <hi>Cabbaliſts</hi> expound the place in the Myſtical Senſe, <hi>Gen.</hi> 25.28. Iſaac <hi>loved</hi> Eſau, (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>quia venatio in ore ejus,</hi>) <hi>becauſe the Hunting, or Prey, was in his Mouth;</hi> (ſee the <hi>Hebrew</hi> Text) underſtanding the word <hi>His,</hi> to relate not to <hi>Iſaac,</hi> but to <hi>Eſau</hi> himſelf, <hi>Iſaac</hi> foreſeeing by the Spirit of Prophecy, that <hi>Eſau</hi>'s Poſterity ſhould greatly afflict the Poſte<g ref="char:EOLhyphen"/>rity of <hi>Jacob</hi> in the latter Days, for a Puniſh<g ref="char:EOLhyphen"/>ment of their Sins; and he fore-ſeeing that this Puniſhment ſhould be for their Good, and to prevent their being puniſhed with Hell Fire
+<pb n="12" facs="tcp:37358:8"/>in the World to come, therefore he loved <hi>Eſau,</hi> the rather on that account, and accordingly the <hi>Jews</hi> rec<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that the <hi>Gentiles</hi> or Nations that ſo hardly now uſe them, are of <hi>Eſau,</hi> and do but fulfil <hi>Iſaac</hi>'s Prophecy, that they may only have evil things here in this World, that ſo they may eſcape greater vils in the World to come, as Chriſt ſaid concerning <hi>Lazarus, He had his evil things in this Life:</hi> And why many good Men are ſo greatly afflicted with Poverty, and other Chaſtiſements in this Life, ſeem to have a reference to the like Caſe. The places of Scripture above-cited by the Author, prove not, that this Life is no time of Recompenſe in any Caſe; for he granteth that in ſome Caſes it is, and theſe places in<g ref="char:EOLhyphen"/>deed prove, as well as common Experience dai<g ref="char:EOLhyphen"/>ly teacheth us, that many wicked and cruel Op<g ref="char:EOLhyphen"/>preſſors eſcape Puniſhment in this preſent time of Life; but that they are not puniſhed in their Poſterity ſome time before the end of the World, they prove not, and that cited place in <hi>Job</hi> 27. ſeemeth rather to prove the contrary, even that Oppreſſors and wicked Men are puniſhed in their Children and Poſte<g ref="char:EOLhyphen"/>rity, as <hi>v.</hi> 19. <hi>God layeth up his Iniquity,</hi> (ſee the Marginal Note, <hi>i. e</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Puniſh<g ref="char:EOLhyphen"/>ment of his Iniquity) <hi>for his Children, he re<g ref="char:EOLhyphen"/>wardeth him, and he ſhall knew it;</hi> but how this is done, will appear more hereafter.</p>
+            <pb n="13" facs="tcp:37358:8"/>
+            <p>In his Anſwer to the ſecond Query, from <hi>Rev</hi> 13.10 he reſtraineth, that <hi>He,</hi> particu<g ref="char:EOLhyphen"/>larly to ſome bloody Perſecutor of the <hi>Chriſti<g ref="char:EOLhyphen"/>an</hi> Religion, either <hi>Nero,</hi> or <hi>Domitian,</hi> or both; who having butchered the <hi>Chriſtians,</hi> were butchered themſelves, and the <hi>Rom<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns</hi> after<g ref="char:EOLhyphen"/>wards taken Captives by the <hi>Goths</hi> and <hi>Vandals,</hi> ſo that they had the ſame meaſure meted to them again in this Life.</p>
+            <p>
+               <hi>Reply.</hi> As his applying that place of Scrip<g ref="char:EOLhyphen"/>ture by a particular Limitation, or Reſtriction to <hi>Nero</hi> or <hi>Domitian,</hi> is very ſingular, and con<g ref="char:EOLhyphen"/>trary to the general Senſe of Expoſitors, ſo it is very abſurd, for it relates to ſome great Series or Succeſſion of bloody Perſecutors, after the be<g ref="char:EOLhyphen"/>ginning of the 42 Months, and entring of the A<g ref="char:EOLhyphen"/>poſtacy, and the time of the Churches flight into the <hi>Wilderneſs,</hi> for the ſame ſpace of time otherwiſe call'd 1260 Days, or three Years and a half, as the Context maketh plainly ap<g ref="char:EOLhyphen"/>pear, many of which Perſecutors, as the per<g ref="char:EOLhyphen"/>ſecuting Emperors in the fifth, ſixth, and fol<g ref="char:EOLhyphen"/>lowing Centuries after Chriſt's Reſurrection, died a natural Death in their Beds, when they then lived, and yet here it is foretold by <hi>John,</hi> That they, and ſuch as joyned with them in bloody Perſecution ſhould ſuffer the like Pu<g ref="char:EOLhyphen"/>niſhment in their Poſterity and Succeſſors in
+<pb n="14" facs="tcp:37358:9"/>after Ages, as propably hath been in part alrea<g ref="char:EOLhyphen"/>dy fulfil'd, and yet is more to be fulfil'd: But <hi>Math.</hi> 26.52. Speaketh univerſally, <hi>For all they that take the Sword, ſhall periſh with the Sword,</hi> ſaid Chriſt.</p>
+            <p>In his Anſwer to the third <hi>Query,</hi> he giveth away the Cauſe more than he is aware of, or underſtandeth, if he knew the manner of the <hi>Revolution</hi> as it is generally held by the chief defenders of it, he would go near to ſay the ſame; for they hold that Men are not only puniſhed in their Poſteitry and ſucceſſors by Re<g ref="char:EOLhyphen"/>volving in them, but that Anceſtors do fre<g ref="char:EOLhyphen"/>quently Revolve in their Children in After-Ages, in order to Converſion together with them. But that this noted place in <hi>Rom.</hi> 11. ſhould only be underſtood of the Poſterity of them that ſhould live in theſe After-ages yet to come, excluding the Fathers and Anceſtors, is expreſly contradictory both to this place, and many other places of Scripture, that ſay all <hi>Iſrael,</hi> whereas the Poſterity excluding the Fa<g ref="char:EOLhyphen"/>thers of ſo many Ages and Generations back<g ref="char:EOLhyphen"/>wards, would be but<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> very ſmall part of <hi>Iſrael.</hi> And indeed the many Arguments uſed by <hi>Paul</hi> in that <hi>Chapter,</hi> to prove that the natural Branches that were cut off by them in belief, ſhall be grafted in again; even all of them by true Faith in Chriſt Jeſus, either proveth that
+<pb n="15" facs="tcp:37358:9"/>the Fathers that dyed in their unbelief, ſhall be grafted in again, or the Apoſtles Arguments ſeem not effectual and of force, for he Argueth univerſally concerning them all and not a part of them. <hi>See ver.</hi> 16, 24, 26, 27, 31, 32.</p>
+            <p>In his Anſwer to the fourth <hi>Query,</hi> he again wrongs the Perſon, querying, ſaying he con<g ref="char:EOLhyphen"/>cludes, whereas he but querieth the meaning of that place of Scripture, <hi>Matth.</hi> 23.35. And he wholly paſſeth by that which is moſt mate<g ref="char:EOLhyphen"/>rial in that paſſage, <hi>viz.</hi> That theſe <hi>Jews</hi> to whom Chriſt ſpake, are charged expreſly with ſlaying <hi>Zacharias, whom they ſlew</hi> ſaid Chriſt, <hi>between the Temple and the Altar;</hi> now if they had no ſhare in it, how could he charge it upon them as their Fact? But his main defence, is that by theſe words of Scripture <hi>Exod.</hi> 20. where it is ſaid <hi>God viſits the Sins of the Fathers to the third and fourth Generation.</hi> God doth not limit his Juſtice, as if it did never reach Offenders be<g ref="char:EOLhyphen"/>yond the third and fourth Generation; a greater number doth not exclude the leſs, but contain the leſſer under it.</p>
+            <p>
+               <hi>Reply,</hi> What is this but to ſport with Scrip<g ref="char:EOLhyphen"/>ture, to put ſuch ſtrained Sence and Contradi<g ref="char:EOLhyphen"/>ction upon it? He may as well ſay, when the Scripture ſaith <hi>There were eight Perſons ſaved in the Ark,</hi> he may at this rate of perverting Scrip<g ref="char:EOLhyphen"/>ture ſay there were eighty or eight hundred, or
+<pb n="14" facs="tcp:37358:10"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="15" facs="tcp:37358:10"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="16" facs="tcp:37358:11"/>as many more, as he may fancy, and defend himſelf by alledging if there were eighty or eight hundred there were eight, but this is meer trifling inſtead of ſolid anſwering. <hi>God ſaid an Edomite was not to enter the Congregation of Iſrael until the fourth Generation, nor a Baſtard or Moabite until the tenth.</hi> But it would be a groſs perverſion of Scripture to extend the <hi>Edomites</hi> enterance beyond four Generations, or the <hi>Ba<g ref="char:EOLhyphen"/>ſtards</hi> and <hi>Moabites</hi> beyond ten, ſeeing the Scrip<g ref="char:EOLhyphen"/>ture precieſly mentions theſe numbers. His Example out of Scripture as 1 <hi>Sam.</hi> 2.31, 32. 2 <hi>Kings.</hi> 5.27. and 1 <hi>Sam.</hi> 15.2. prove not what he intends, unleſs be had proved that theſe Mens Poſterity did neither Sin in their Fathers, nor that their Fathers by <hi>Revolution</hi> did not live in them; but in this he falleth ſhort, not underſtanding the true and real <hi>Hy<g ref="char:EOLhyphen"/>potheſis</hi> of that Doctrine which he undertaketh to refute, but that he faith it is no injuſtice in God to puniſh Children for their Fathers Faults when they imitate their Fathers wickedneſs, I anſwer, if their Sin be only bare imitation, and doing the ſame wicked things, they are juſtly puniſhed indeed for their own Faults; but if they were not acceſſary to their Fathers Sins, but only that they commit the ſame Sins, they are puniſhed for their own Sins, according to that place of Scripture <hi>Every one ſhall die for his
+<pb n="17" facs="tcp:37358:11"/>own Iniquity; the Son ſhall not bear the Iniquty of the Father; but the Soul that ſinneth ſhall die; and every one that eateth the ſower Grapes, his Teeth ſhall be ſet on edge.</hi> But their Fathers Sins are not imputed to them only for their bare imita<g ref="char:EOLhyphen"/>tion, but for having a ſhare in their very Sins, either whilſt they were in their Fathers Loins, and acting in them, (which is one Branch of the <hi>Revolutions</hi>) or afterwards living together with them in diſtinct Bodies. And becauſe (according to the Hypotheſis of the <hi>Revolutions</hi> as delivered by <hi>Cabbaliſt</hi> and <hi>Mystick</hi> Writers) the Souls of the Fathers do frequently Revolve in their Poſterity, as their Grand Children, or Childrens Children, therefore they are puni<g ref="char:EOLhyphen"/>ſhed in, and with their Children, as their Chil<g ref="char:EOLhyphen"/>dren Sinned in. and with them, even as we all Sinned within <hi>Adam;</hi> and his Sin is not our Sin by bare imputation as ſome alledge, but by real participation, the Souls of the Children while in their Parents Bodies being capable to act in them Good or Evil, as it is ſaid of <hi>Levi,</hi> who received Tithes, he paid Tythes in <hi>Abraham,</hi> and though the Souls of his Bretheren were in <hi>Abraham,</hi> as well as he, yet it is not ſaid of them but of him. For his Reference to Dr. <hi>Cradocks</hi> Sermon on <hi>Eccles</hi> 9.2. I have not had oppertu<g ref="char:EOLhyphen"/>nity to ſee it, and think it not material to en<g ref="char:EOLhyphen"/>quire after it. Next, whereas he argueth that
+<pb n="18" facs="tcp:37358:12"/>Chriſt maketh a manefeſt diſtinction between the <hi>Jews</hi> and their Fathers, which he would not have done had they been the ſame Perſons; again he ſaith the ſame Men could not be the Children and Fathers too, as our Inquirer imagines.</p>
+            <p>To this it is eaſily Replyed, that though there is a manifeſt diſtinction betwixt the Fa<g ref="char:EOLhyphen"/>thers and the Children, yet this hinders not, but that, without all Confuſion, the Children might have both Liv'd and Acted in their Fa<g ref="char:EOLhyphen"/>thers. As <hi>Levi</hi> paid Tithes in <hi>Abraham,</hi> and yet <hi>Levi</hi> was not <hi>Abraham.</hi> And as the Souls of the Children may or do impregnate the Fa<g ref="char:EOLhyphen"/>thers without Confuſion, (<hi>See for this in Gen.</hi> 46.26.) So may the Souls of the Fathers live in the Children, by <hi>Impregnation</hi> or <hi>Revolution,</hi> without all Confuſion, as the chief Aſſertors of the <hi>Hypotheſis</hi> of the <hi>Revolutions</hi> do hold; for thus they underſtand theſe words, <hi>Exod.</hi> 20. <hi>Viſiting the Iniquities of the Fathers upon or in the Children to the third and fourth Generation.</hi> That is when the Souls of the Fathers live again by <hi>Revolution</hi> three <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or four ſeveral times in the Children, they are gently corrected and puni<g ref="char:EOLhyphen"/>ſhed in order to their Melioration or Amend<g ref="char:EOLhyphen"/>ment, which is called their Viſiting; but if they do not Amend they ſuffer Exciſion for ſome long tract of time, and have not the bene<g ref="char:EOLhyphen"/>fit
+<pb n="19" facs="tcp:37358:12"/>of any farther <hi>Revolution</hi> until that tract of time be expired. But if in the third or fourth <hi>Revolution</hi> they amend, and are Meliorated in any degree, they may have many <hi>Revolutions,</hi> as the <hi>Cabbaliſts</hi> ſay, <hi>Even as many they need were it to a Thouſand Generations.</hi> For ſo they underſtand theſe words, <hi>Shew Mercy to Thou<g ref="char:EOLhyphen"/>ſands of them that love me, and regard my Com<g ref="char:EOLhyphen"/>mandments.</hi> (ſo the tranſlation) which is ſaid to expreſs the rich and abundant Mercy of God; but not that ſo many ſhall be needed, as Chriſt adviced the Diſciples <hi>to forgive not only ſeven times a Day but ſeventy ſeven times.</hi> And yet none need ſo many times Forgiveneſs every Day, for it is probable few if any need or have above twelve, anſwering the twelve Hours of the Day. How beit, I find not that the Ancient <hi>Cabbaliſt</hi> Writers limit the number of the <hi>Re<g ref="char:EOLhyphen"/>volutions</hi> to twelve, that being rather queried than aſſerted as a probable Circumſtance, by ſome private Perſons but whether true or falſe, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oucheth not the ſubſtance of the Opinion it ſelf, as neither do ſome other Circumſtantial <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hings Query in the <hi>two hundred Queries</hi> or <hi>Hi<g ref="char:EOLhyphen"/>ſtorically Narated in the Printed Epiſtle cited by <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>his Author.</hi> But that he ſaith, <hi>The Inquirer <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th not Argu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> from the Murder of</hi> Abel; that bears equal weight with that of <hi>Zacharias;</hi> but <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his is only the Authors own Conceit, but the
+<pb n="20" facs="tcp:37358:13"/>Argument holds equally good from the Murder of <hi>Abel,</hi> as that of <hi>Zacharias,</hi> nor do his two ſuppoſed Reaſons he brings ruin the proof, for the Souls of all thoſe <hi>Jews</hi> upon whom the Blood of <hi>Abel</hi> was charged, might have been at that very time in <hi>Cain,</hi> when he murder'd righteous <hi>Abel,</hi> and might have been conſenting to that Act of murder in <hi>Cain,</hi> as according to the Doctrine of the <hi>Cabbaliſts,</hi> concerning <hi>Pre<g ref="char:EOLhyphen"/>exiſtence, we all Sinned in</hi> Adam being in him when he Sinned, and concenting to his Sin. And it is but a weak and trifling Objection that ſome make againſt this, that ſo many Souls could not be contained in <hi>Adam,</hi> for Souls being Spirits, and in corporeal Beings, do not juſtle for room as Bodies do. There were ſe<g ref="char:EOLhyphen"/>ven unclean Spirits in <hi>Mary Magdalen,</hi> and a Legion of unclean Spirits (the Legion con<g ref="char:EOLhyphen"/>taining 6000, and more) in one Man. But if Spirits did juſtle for rooms as Bodies do, ſo many could not have been in them.</p>
+            <p>His ſecond ſuppoſed Reaſon proceeds from his own Ignorance or in Advertency, and not from the Letter cited by him, for though the Letter and Book of the two hundred <hi>Queries,</hi> allow to every Man (if need be, and that they are not perfectly converted and reſtored ſooner a Thouſand Years to live in the Body, yet they allow four Thouſand Years for the whole time
+<pb n="21" facs="tcp:37358:13"/>from the firſt to laſt, as ſuppoſe the Intervals of time that Souls are diflodged from all Humane Bodies, until they return to live in Bodies, toge<g ref="char:EOLhyphen"/>ther with that time they live in Bodies, till all their <hi>Revolutions</hi> be finiſhed, making up the ſpace of four Thouſand Years, See for this in the Book of the two Hunred <hi>Queries Query</hi> 27, 28, 61. all which expeeſly mention four Thouſand Years.</p>
+            <p>His flouriſh by his envying againſt the favo<g ref="char:EOLhyphen"/>rers of this innocent <hi>Hypotheſis</hi> grounded only on his Miſtakes, and inadvertency I let paſs without any other Anſwer on this Head.</p>
+            <p>In his Anſwer to the fifth <hi>Query,</hi> from <hi>Ezek.</hi> 16.25. He is groſly miſtaken, as if theſe words did imply an exalted manner of denying that ever <hi>Jeruſalem,</hi> (to wit the Stone, or Timber, or Houſes,) but the People ſhall return to her former eſtate, for the following words in <hi>ver.</hi> 60, 61, 62, 63. do plainly intimate that ſhe, to wit, the People ſhall return, and God will (Mercifully) remember his Covenant with them, and ſhall have this good Effect on them, that they ſhall remember their ways, and ſhall be aſhamed when ſhe ſhall receive her two Si<g ref="char:EOLhyphen"/>ſters, <hi>Sodom</hi> and <hi>Samaria;</hi> ſo that the words are no denial, but a poſitive promiſe to <hi>Jeruſalem,</hi> and the other two, <hi>viz. Sodom</hi> and <hi>Samaria.</hi> His Reaſons againſt this are not worth anſ<g ref="char:EOLhyphen"/>wering,
+<pb n="22" facs="tcp:37358:14"/>as if by Cities were to be meant not the People, but the Houſes of Stone and Tim<g ref="char:EOLhyphen"/>ber, whereas it is plain, the People only is to be underſtood, and not the Houſes with their Materials, or as if all returns were made with<g ref="char:EOLhyphen"/>in a Thouſand Years, according to the <hi>Hypotheſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> of the <hi>Revolutions;</hi> but that is ſhowed above to be his miſtake, the whole Interval being four Thouſand Years. And his third Reaſon is very weak and idle like the former, for tho<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> all the Citizens of <hi>Sodom</hi> were deſtroyed, and had no poſterity of their own to revolve in, the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> might revolve in others having neareſt Affinity or Relation to them that did remain of othe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Cites.</p>
+            <p>In his Anſwer to <hi>Query</hi> ſix from <hi>Pſal.</hi> 90. <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Thou turneſt Man to De<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ruction, and ſayeſt, Return ye Children of Men.</hi> He alledgeth this Return is at the general Reſurrection; but the follow<g ref="char:EOLunhyphen"/>ing words correct his miſtake, that have a ne<g ref="char:EOLunhyphen"/>ceſſary reference to them, for a Thouſand Years <hi>in thy ſight are but as yeſterday,</hi> when it is paſt and as a Watch in the Night, which <hi>Peter,</hi> i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Epiſt.</hi> 3.8. expounds, as holding fort Gods long Suffering towards Men in general giving them four Thouſand Years ſpace from firſt to laſt, in order to repent and amend, which is but as four Days, or as four Watches o<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Night; therefore this Return of Men, ſeemed
+<pb n="23" facs="tcp:37358:14"/>not to be underſtood of the general Reſurrection, but of the <hi>Revolutions</hi> of the Souls of Men; and the like may be ſaid in anſwer to what he ſaith, from that other place in <hi>Eccleſ.</hi> 1.4. <hi>Generation goeth, and Generation cometh.</hi> Which muſt needs have another ſence than what we ſay, Year cometh and Year go<g ref="char:EOLhyphen"/>eth; becauſe of the Similitudes and Examples, that <hi>Solomon,</hi> bringeth from the Sun, the Winds, and the Rivers; for the ſame Year goeth away cometh not again; but the ſame Sun that goeth down, riſeth again; and the ſame Wind that goeth to the South, returneth to the North; and the ſame Rivers that come from the Sea, return to the Sea. Therefore the ſame Gene<g ref="char:EOLhyphen"/>ration of Men in <hi>Solomon</hi>'s time, that went off, did afterwards return again, until they finiſh their Circuit, excepting ſuch particulars as were made perfect, and ſo need no <hi>Revolution.</hi> And here he anticipates that Objection, why do they not remember former things? <hi>vea.</hi> 11. <hi>There is no Remembrance of former Thing.</hi> Which cannot relate to <hi>Memories</hi> or <hi>Records,</hi> for ſuch there were, but to <hi>Revolutions</hi> it doth well refer.</p>
+            <p>In his Anſwer to <hi>Queiry</hi> ſeven, from 1 <hi>Pet.</hi> 3.18, 19, 20. He takes it for granted without any ſolid Proof, that Chriſt his preaching to them of the old World, was his Spirit in <hi>Noah,</hi>
+               <pb n="24" facs="tcp:37358:15"/>but this is at large refuted in the Book of two Hundred <hi>Queries;</hi> and is is plain the preaching of Chriſt to them was after his Death, and conſequently long after <hi>Noah.</hi> Again, his preaching had a good effect upon them to Con<g ref="char:EOLhyphen"/>verſion; for it is ſaid, They were ſometimes diſobedient, and therefore not always; but in <hi>Noahs</hi> time they remained diſobedient, until after Chriſts Death; for they were all drow<g ref="char:EOLhyphen"/>ned for their diſobedience. And indeed <hi>Cal<g ref="char:EOLhyphen"/>vin,</hi> is ſo ingenious, as to confeſs it relates to the time of Chriſt, after his Death, though he hath another gloſs upon it, leſs propable, than is here enquired. But the Author doth greatly miſtake the enquirer, as if by Priſon, he meant Humane Bodies, for he meaneth not Humane Bodies, but their Sins, and the power of Satan, in which they were held until living again they were converted after Chriſts Death by the preaching of the Goſpel; yet it is not to be ſuppoſed that all were converted, as neither all the <hi>Sodomites</hi> at their laſt <hi>Revolution</hi> ſhall be all converted, for the words of Chriſt imply that ſome ſhall not be converted, but periſh, <hi>It ſhall be more Tolerable for</hi> Sodom <hi>and</hi> Gomorrah <hi>in the Day of Judgement,</hi> &amp;c.</p>
+            <p>In his Anſwer to the eight and laſt <hi>Query,</hi> Taken from the <hi>Metaphor</hi> of a good Husband-Man, that new Grafts and Transplants his
+<pb n="25" facs="tcp:37358:15"/>Trees, that ſo at laſt he may have kood Fruit. He alledgeth the <hi>Metaphorical</hi> Arguments will prove nothing, but the weakneſs of ſuch as make them.</p>
+            <p>
+               <hi>Reply. Metaphorical</hi> Arguments, ſuch as Pa<g ref="char:EOLhyphen"/>rables, and Allegories what is intended by them, with reſpect to the ſcope and intention by them, when dully apply'd, and the Anolo<g ref="char:EOLhyphen"/>gy is due and proper, as in this caſe it is, being warranted by Scripture; for <hi>Paul</hi> tells us, <hi>Rom.</hi> 11. That the material <hi>Branches that in his Days, were cut off for their Sin of unbelief, ſhall be Grafted in again,</hi> in ſome following Age or Time of the World, ſo as to be made true Members of the Church of Chriſt. Now how can this be, but by their living again by <hi>Revolution,</hi> in order to their Converſion, ſeeing we find no ground in Scripture to believe that Souls are Conver<g ref="char:EOLhyphen"/>ted any where elſe, but as they live here in Hu<g ref="char:EOLhyphen"/>mane Bodies on Earth? His Arguments from <hi>Metaphor,</hi> by way of reverſion, being partly falſe in matter of Fact, and partly improper and unduly applyed; I need not ſpend time nor Pa<g ref="char:EOLhyphen"/>per to refute it? I ſay partly falſe in matter of Fact, becauſe contrary to his aſſertion, a wiſe Gardiner will remove his Graft from his Stock, he hath once incerted it; if the Stock prove bad, and happen to die and corrupt, he will remove it to another ſtock, and not eaſily loſe
+<pb n="26" facs="tcp:37358:16"/>it. Alſo a wiſe Gardiner may by ſeveral Graft<g ref="char:EOLhyphen"/>ings or Tranſplantings of the ſame Tree, make better Fruit, as experience hath proved. But the Author it ſeems, has as little skill in good Husbandry, as he hath in Scripture Myſteries. And his laſt Argument on this head is moſt im<g ref="char:EOLhyphen"/>proper, becauſe Man dies not as a Tree dies, as the Author confeſſeth, the Soul of a Man after Death ſurvives, and though corruptable with Sin, yet the wiſe Gardiner knowing that it is capable of amendment, thinks fit to give it a Tryal of a new life again in a Humane Body.</p>
+            <p>Having thus briefly diſcovered the inſuffi<g ref="char:EOLhyphen"/>ciency of the Authors Anſwers to the Inquirers queries, I ſhall in the next place with the like briefneſs conſider, and ſhow the weakneſs and inſolidity of his pretended Reaſons againſt this harmleſs Opinion.</p>
+            <p>His firſt Reaſon is, ſuppoſe ſome bloody Tyranty, as <hi>Nero,</hi> to have taken away the Lives often Thouſand Chriſtians, and by more than a Hundred kinds of Death; he argueth, that by this <hi>Hypothefis</hi> of having the ſame meaſure return'd <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o him again, he muſt die ten Thouſand times, and more then by a Hundred kinds of Death.</p>
+            <p>
+               <hi>Reply.</hi> This will not follow, for even accor<g ref="char:EOLhyphen"/>ding to that divine inſtinct of Juſtice that is in Man; if one Man kill ever ſo many, Juſtice
+<pb n="27" facs="tcp:37358:16"/>requires no more, but that he die for all his Crimes, with ſome additional Circumſtances of his Death, to make his puniſhment the more ſevere: And the Authors own diſtinction of a Analogical meaſure of puniſhment, may ſerve to anſwer him here, but this Analogical mea<g ref="char:EOLhyphen"/>ſure cannot be underſtood to be the greateſt and ſevereſt Puniſhment of all, <hi>viz</hi> the torment of Hell Fire, for Ages of Ages ſimply for offences done to ther fellow Creatures, but rather ſome ſuitable Puniſhment executed here in this World, as I have ſaid above upon the Anſwer to the firſt <hi>Query;</hi> and the like may be ſaid in caſe of a raw Rebellion, or ſelf-murder, ſome Analogical Puniſhment, ſuch as the moſt wiſe and juſt Judge of the whole World ſhall Judge moſt fit to be inflicted, is ſufficient in theſe caſes, the greateſt and moſt ſevere Puni<g ref="char:EOLhyphen"/>ſhments of Hell-fire, being reſerved only for ſuch as demonſtrate themſelves incorrigible after all theſe leſs ſevere Puniſhments here in this World have been inflicted on them: For Chriſt himſelf hath taught us, that the proper Puniſhments of every Sin is not Hell, f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ire, but only of the worſt ſort, as Contempt of God, finally Impenitency and Unbelief, after God hath extended much long-ſuffering towards them? ſee <hi>Matt.</hi> 5.22. where three ſeveral degrees of Sin is held forth, the firſt two againſt
+<pb n="28" facs="tcp:37358:17"/>a Mans Neighbour, as Anger, and Contempt, (without cauſe) they are only puniſhable by the Judgment of the Council, to wit, by the Superior Judicatories above, unto which Supe<g ref="char:EOLhyphen"/>rior Judicatories above, the <hi>Jews</hi> had their in<g ref="char:EOLhyphen"/>feriour Judicatories below, correſponding as the Tabernacles, and things of the Law here below, did correſpond to their Patterns above, and to this Chriſt ſeemeth here to allude, but for a Man to ſay to his Brother, (without a cauſe) thou Fool, is a manifeſt Contempt of God, and reflects upon the great Creator himſelf, and therefore he that is Guilty of this Sin, is in danger of Hell-fire, if he repent not timely of it.</p>
+            <p>His ſecond Reaſon is that by the <hi>Hypotheſis</hi> of the <hi>Revoluteons,</hi> God would be the Author of Sin, becauſe whatſoever God hath ordered to come to paſs in a certain and neceſſary man<g ref="char:EOLhyphen"/>ner, of that he is the Author.</p>
+            <p>
+               <hi>Reply.</hi> Here the Author is greatly guilty againſt himſelf, by his own inadvertncy, <hi>Sua ſe jugulans gladio,</hi> killing himſelf. I mean his own Argument, by his own Sword; for hedid grant above, that <hi>Domitian</hi> and <hi>Nero,</hi> who butchered the Chriſtians, were butchered themſelves, and the <hi>Romans</hi> afterwards taken Captives, by the <hi>Goths</hi> and <hi>Vandals.</hi> And in theſe caſes that Law of Juſtice of meting the ſame meaſure
+<pb n="29" facs="tcp:37358:17"/>unto them, was fulfill'd in this Life. Now let the Author clear it to us, whether there was not a <hi>Divine Hand,</hi> and <hi>Providence</hi> in theſe Caſes, and whether the <hi>Divine Juſtice</hi> is not herein demonſtrated: And, if this will not prove God to be the Author of Sin in theſe Caſes, no more will it in any other of the like Nature; and when <hi>Jeruſalem,</hi> (to wit, the People) did put our Saviour to Death, and a<g ref="char:EOLhyphen"/>bout 40 Years afterward, were ſeverely pu<g ref="char:EOLhyphen"/>niſhed, 1100000 of them being ſlain by <hi>Titus Veſpaſian,</hi> which was a moſt juſt Work upon them; and many other, the like Caſes and Inſtances, wherein all ſincere <hi>Chri<g ref="char:EOLhyphen"/>ſtians</hi> acknowledge a <hi>Divine Hand</hi> of Juſtice, as when <hi>Jeruſalem</hi> was formerly deſtroyed by <hi>Nebuchadnezzar,</hi> and yet, they piouſly believe, God is clear, tho' the Inſtruments frequently are wicked, unjuſt and cruel, and that he is not the Author of their Wickedneſs, and he hath a moſt infallible and perfect Knowlegde and Foreſight of all that cometh to paſs in this World, be it ever ſo bad; and he can, and doth ſo bound the Sins of Men, and ſhow his over-ruling Hand over both the Sins, and the Sinners, that in all, and over all, his Power, and Juſtice, is glorified, and his Mercy exal<g ref="char:EOLhyphen"/>ted towards all them that love him.</p>
+            <pb n="30" facs="tcp:37358:18"/>
+            <p>But it is no ways proper here, to diſpute a<g ref="char:EOLhyphen"/>bout the Decree<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of God; for it would make a Digreſſion from the Subject that is proper, to that which is foreign, and wherein all Proſeſ<g ref="char:EOLhyphen"/>ſions in <hi>Chriſtendom</hi> are concerned, to clear God from being the Author of Sin in ſuch Ca<g ref="char:EOLhyphen"/>ſes, when Men are here in this World puniſh'd ſuitably, according to their Crimes, as well as the Favourers of the <hi>Opinion</hi> of the <hi>Revoluti<g ref="char:EOLhyphen"/>ons,</hi> unleſs the Author will ſay, that all ſuch things are come to paſs in this World by mere Chance, or Accident, without <hi>Divine Provi<g ref="char:EOLhyphen"/>dence;</hi> but this, I hope, he will be more pious, than to affirm.</p>
+            <p>His Third Reaſon, being of the like Impor<g ref="char:EOLhyphen"/>tance with the former, the ſame Anſwer may ſuffice: Beſide, his Inadvertency is great; that he conſiders not that Repentance, or Sa<g ref="char:EOLhyphen"/>tisfaction, made to the Perſon offended, and the offended Perſon, forgiving the Offence, as frequently cometh to paſs, putteth a ſtop to this Author's Imaginary Wheel, or Progreſs of Wickedneſs, without end.</p>
+            <p>His Fourth Reaſon is only a <hi>Query,</hi> which is but a dull and faint way of arguing; for if neither the Author, nor I, could anſwer all the nice and curious Queries, that one could raiſe about the <hi>Reſurrection,</hi> o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſome other great Point of the <hi>Chriſtian Faith,</hi> it will not there<g ref="char:EOLhyphen"/>fore
+<pb n="31" facs="tcp:37358:18"/>follow, that ſuch querying is a Refutation of thoſe Doctrines. But in his Proſecution of his Query, he ſuppoſeth ſome things to be ab<g ref="char:EOLhyphen"/>ſurd, which the Favourers or Aſſerters of the <hi>Hypotheſis</hi> of the <hi>Revolutions</hi> will not grant to be abſurd; for they are Parts and Branches of it; when fully explain'd. One is, That two o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> three Souls cannot revolve in one <hi>Humane Body;</hi> but the <hi>Cabbaliſts</hi> and <hi>Myſtick</hi> Authors, who aſſert the Doctrine of the <hi>Revolutions,</hi> ſay, they can, and that they frequently ſo do, and this Author has ſaid nothing as yet, to prove the Abſurdity of it; when he doth, in his next Anſwer he may have a Reply. If one would argue, this would make a Confuſion of Perſons, that <hi>Levi</hi> was in <hi>Abraham,</hi> together with his Brethren; to wit, as to their Souls, and per<g ref="char:EOLhyphen"/>haps alſo, as to the Seminal Principles of their Bodies, which are very Spiritual, and there<g ref="char:EOLhyphen"/>fore well enough conſiſtent together for ſome due time; for the Body being as a Houſe, or Lodging to the Soul, why may not divers Souls lodge in one Body for a time, as well as <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ivers Men in one Houſe? But it is confeſs'd, that evey Soul ſhall have its proper Body, in its own proper Seaſon and Time. Another thing he ſuppoſeth to be abſurd, which will not be granted to him, is, that ſome Souls of Men, drowned in <hi>Noah</hi>'s Flood, do remain un<g ref="char:EOLhyphen"/>provided
+<pb n="32" facs="tcp:37358:19"/>with Bodies to this very day; tho' this is no neceſſary Conſequence, yet until he prove the Abſurdity of it, let it remain as a poſſible thing ſo to be; for according to <hi>Cab<g ref="char:EOLhyphen"/>baliſt</hi> Authors, many Souls that ſinn'd in, and with <hi>Adam,</hi> ſuffer'd Exciſion, and remain un<g ref="char:EOLhyphen"/>provided with Bodies to this very day, which they call <hi>new Souls,</hi> (not as being newly crea<g ref="char:EOLhyphen"/>ted; for the <hi>Hypotheſis</hi> holds, that all Souls were created together, and put in <hi>Adam</hi>'s Body,) the firſt time they come into <hi>Humane Bodies,</hi> ſince <hi>Adam</hi>'s Fall, and that ſtill ſuch new Souls will be coming into the World, for the ſpace of 6000 Years, from <hi>Adam</hi>'s Creation, and no longer. It is true, there is a Query in the Treatiſe of the 200 Queries, whether all Souls of Mankind had not begun their <hi>Revolutions</hi> be<g ref="char:EOLhyphen"/>fore 2000 Years were expired, which the Au<g ref="char:EOLhyphen"/>thors, or Writers of that Treatiſe did ſeem to favour in the Affirmative; but upon better Conſideration and Acquaintance with <hi>Cahba<g ref="char:EOLhyphen"/>liſt</hi> Authors, that hold the Negative, they are better inform'd; and here, once for all, let me adviſe the Readers of this Treatiſe of the 200 Queries, not to turn every Query into a Poſition, or Affirmative Concluſion, as ſome have too unadviſedly done; for the Perſon or Perſons that did give forth theſe 200 Queries, were not clear in many of them, ſo as to make
+<pb n="33" facs="tcp:37358:19"/>them Poſitions, or Concluſions, either Affir<g ref="char:EOLhyphen"/>mative, or Negative, but rather left that to a farther conſideration, or to ſome other Perſon or Perſons, that with more clear Light and Un<g ref="char:EOLhyphen"/>derſtanding, might be enabled to give poſitive Anſwers to every one of them, which yet hath not been done; and it is not to be ſuppoſed, that this Author that is ſo pre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>udic'd, againſt this <hi>Harmleſs Opinion,</hi> ſhall be the Man that can do it, except he lay aſide his prejudice, and be further enlightned. But here I perceive, ſome will be ready to object, what time can theſe new Souls have to run their 12 <hi>Revoluti<g ref="char:EOLhyphen"/>ons,</hi> more or leſs, after 6000 Years are expir'd, when but a 1000 Years ſhall remain before the end. But, to this it is eaſily anſwered, there will be no occaſion for Souls then to revolve; for the Neceſſity and Uſe of <hi>Revolutions,</hi> will be ſupply'd ſome better way; to wit, by a grea<g ref="char:EOLhyphen"/>ter encreaſe of Light and Grace, and a longer time of Life, (ſuch as was before the Flood) and ſuch as ſhall then be converted, and become Saints, ſhall not die, but be changed, as the Scripture plainly declareth. And, as concern<g ref="char:EOLhyphen"/>ing the times of the Souls (that revolve) ab<g ref="char:EOLhyphen"/>ſences from the Body, nothing can be univer<g ref="char:EOLhyphen"/>ſally or generally determin'd; for, according to the <hi>Cabbaliſt</hi> Authors, ſome Souls return ve<g ref="char:EOLhyphen"/>ry ſoon into <hi>Humane Souls,</hi> as the Souls of ſuch
+<pb n="34" facs="tcp:37358:20"/>as die in Infancy, or are not great Sinners; but ſuch as die great Sinners, and are guilty of ſuch Sins, that deſerve Exciſion, which <hi>Moſes</hi>'s Law teacheth, (namely, what particular Sins de<g ref="char:EOLhyphen"/>ſerve Exciſion) theſe may remain able<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t from Bodies for a long contract of Time as<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uppoſe 300 Years, or more, or leſs, as the <hi>Divin Wiſ<g ref="char:EOLhyphen"/>dom</hi> and <hi>Juſtice</hi> hath appointed; but, that ſome do return quickly after Death, or the Diſſolu<g ref="char:EOLhyphen"/>tion of the former Body, divers <hi>Cabbaliſt</hi> Au<g ref="char:EOLhyphen"/>thors affirm, and I know no ſufficient Reaſon to contradict it.</p>
+            <p>His <hi>5th.</hi> Reaſon I have already anſwered, by telling him that all <hi>Revolutions,</hi> (according to <hi>Cabbaliſt</hi> Authors will end at the Expiration of 6000 <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ars, from <hi>Adam</hi>'s Creation, ſo it will be all one thing, whether Souls then be in their tenth or eleventh, or firſt and ſecond <hi>Revolutions,</hi> for there will be need of any more.</p>
+            <p>His <hi>6th.</hi> Reaſon is ſoon diſpatch'd; <hi>Solomon</hi> tells us, That there is no Remembrance of ſor<g ref="char:EOLhyphen"/>mer things at preſent, (but at the great Day of Accounts, when the Books ſhall be opened, there will be a Remembrance of all things,) his Argument is moſt weak, and impertinent, as if Men's living again can be to no purpoſe, or of no ſervice for their Amendment, or Meliora<g ref="char:EOLhyphen"/>tion, except they remember former things, or as if their Puniſhments would have no Service to their Good.</p>
+            <pb n="35" facs="tcp:37358:20"/>
+            <p>
+               <hi>Reply.</hi> How many times doth God puniſh Nations, Countries, Cities, and particular Per<g ref="char:EOLhyphen"/>ſous, for particular <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ins, that many, or moſt are not ſenſible o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and have no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a diſtinct know<g ref="char:EOLhyphen"/>ledge of, and yet theſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uni<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ents are of Ser<g ref="char:EOLhyphen"/>vice to them, and are bleſſed, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſanctified to many, for their Converſion and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ormation of Li<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e; the Application is eaſie <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he Ca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e in Hand: And, to move Men to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>epe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tance, for former Sins, whether committed in the preſent Life, or any former time of L<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e, it may ſuf<g ref="char:EOLhyphen"/>fice, that they are ſenſible they have ſuch S<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s in them, and that they muſt be cleauſed from them before they can enjoy the Peace and Fa<g ref="char:EOLhyphen"/>vour of God, and enter into the Kingdom of God; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or how many do ſincerely repent of Pride and Envy, and the like Sins, and do ſin<g ref="char:EOLhyphen"/>cerely labour to crucifie theſe, and the like Sins in them, with great Succeſs, by the help of God<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Grace, and yet they cannot tell neither when nor where the Root of theſe Sins began to take place in them; for it is but too appare<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, that Men generally, not only bring into the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orld with them the Seed of <hi>Adam</hi>'s Tranſgreſſion, but other ſtrong, and great Roots of Sin; that had grown up in them, when formerly they lived in the World; I l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t paſs his E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>curſion on this Head, grounded on his own <gap reason="illegible" resp="#KEYERS" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>ation, as of his proffering to pay 2000 <hi>l</hi> for <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>00 <hi>l</hi> Pre<g ref="char:EOLhyphen"/>ſent to a Man at his ſecond <hi>Revolution,</hi> having
+<pb n="36" facs="tcp:37358:21"/>no other Service, but to gratifie his jocund Hu<g ref="char:EOLhyphen"/>mour, or perhaps to let the World know that he is ſo rich, or of ſo good Credit, that he can give good Security for 2000 <hi>l.</hi> to be paid after ſo many Years Expiration.</p>
+            <p>Thus having anſwered his pretended Argu<g ref="char:EOLhyphen"/>ments, taken from Reaſon, againſt the <hi>Revolu<g ref="char:EOLhyphen"/>tions</hi> of <hi>Souls;</hi> let us in the laſt place conſider his Argument; he eſſays to bring from Scrip<g ref="char:EOLhyphen"/>ture, but with as little Succeſs.</p>
+            <p>His firſt Argument is, that it interfers with the Doctrine of the <hi>Reſurrection;</hi> for if the Soul have lived in more Bodies than one, in ſhall riſe in all theſe Bodies, but the Soul riſeth but in one Body. Therefore, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> It ſeemeth this Author, for all his profeſſed Skill in Phyſicks, and Metaphyſicks, hath but little knowledge in either of them, o<g ref="char:EOLhyphen"/>therwiſe he could not argue ſo weakly on this Head. Doth he not know that the Phyſicks teach that all natural Bodies, both of Animals, and of Men, are in a continual change of their viſible and groſs Parts even as a River that con<g ref="char:EOLhyphen"/>tinually changeth its Water, ſo that perhaps not one drop of Water is now in it, that was in it ſome ſmall time paſt; and this my Phyſicks taught me, which I learned when I was a School-boy, and I well remember that the great Objection then that was made againſt this continual <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hange of the viſible and groſs Parts
+<pb n="37" facs="tcp:37358:21"/>of the natural Bodies of Mankind, was, that it ſeemed to interfer with the Reſurrection of the Body; for by the Doctrine of Phyſicks, almoſt univerſally received, no Man living hath an Ounce weight, or Grain weight of the viſible and groſs Parts of that Body, which he had ſome Years paſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> yea, as ſome think ſome few Months paſt; and if we divide the Age of a Man's Life, that liveth till he be 70 Years of age; ſuppoſe, that but once in ſeven Years he changeth all the viſible and groſs Parts of his Body (tho' it is generally acknowledg'd he changeth them much oftner) he hath by this account changed his whole viſible Body ten times at leaſt in this ſpace of time<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> now let the Author tell me with which of theſe Bodies he ſhall riſe at the Reſurrection, and I ſhall an<g ref="char:EOLhyphen"/>ſwer him with the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ike Reply to this preſent Objection; but if he ſay, there are certain Spi<g ref="char:EOLhyphen"/>ritual and inviſible Parts, belonging to theſe vi<g ref="char:EOLhyphen"/>ſible and groſs Bodies, that may or ſhall make up the intire Spiritual Body at the Reſurrecti<g ref="char:EOLhyphen"/>on, I can ſay the ſame in the preſent Caſe, and if he can tell me where theſe Inviſible and Spi<g ref="char:EOLhyphen"/>ritual Parts of all theſe Bodies are lodged, in the mean time, whither they cleave to the Body, or are ſeparate from the Body in that Interim; I can tell him to the ſame purpoſe in our preſent caſe, and can as eaſily anſwer all his Queries in the one caſe, as he can anſwer mine in the other.
+<pb n="38" facs="tcp:37358:22"/>As for that <hi>Hypotheſis</hi> of the Souls; attracting to its ſelt the Particles of its former Body; by a <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Virtue, it is only queried, and not <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, and therefore I am the leſs concern'd to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> I find no difficulty to defend it, againſt all that he <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ith againſt it in a bare affirmation, without proof, <hi>viz.</hi> That the Soul hath no <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch Magnetick Virtue or Cua<g ref="char:EOLhyphen"/>lity; but it is very probable it hath, becauſe of its great <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nion with the Body, and Love to it, as we find b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> experience in our ſelves<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and the Souls being loath to be uncloathed of the Body, as <hi>Paul</hi> ſaith, but only for the ſure Hopes that it hath, to be cloathed upon at the Reſurrection of the Dead.</p>
+            <p>And upon this Head he turns Inquirer by pro<g ref="char:EOLhyphen"/>poſing about 7 or 8 Queries, that have no force in them, againſt the <hi>H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>potheſis</hi> of the <hi>Revolutions,</hi> more than againſt the <hi>Doctrine of the Reſurrecti<g ref="char:EOLhyphen"/>on,</hi> generally believ'd by all good Chriſtians, and profeſſed by himſelf; and I could query as many, or rather more things, relating to the <hi>Re<g ref="char:EOLhyphen"/>ſurrection</hi> it ſelf, that would be as hard, or harder for him to anſwer with Satisfaction, but this is an improper and ineffectual way to diſpute againſt an <hi>Opinion,</hi> to query, and to give no poſitive Reaſons, whereby to oppoſe it. But that he may not only ſeem to query, he will rather give ſome ſhadow of Reaſons, without all Subſtance, than none at all: One is, that after this faſhion
+<pb n="39" facs="tcp:37358:22"/>Men ſhall be brought into the World without any rather; for a Man begets not the Souls of his Children, and as for the Body, the Soul attracts and unites that to it ſelf, o that the Man we call Father hath nothing to do in the Matter.</p>
+            <p>
+               <hi>Reply.</hi> Tho' a Man beget<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not the Souls of his Children, yet i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he will not turn <hi>I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fidel,</hi> ſo as to contradi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the expreſs Teſtimony of Scripture <hi>the Souls of the Children come out of the Loins of their Fathers,</hi> Gen. 46.26. and are conveyed into <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>umane Bodies, by humane Generation; but to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to all the curious and knotty Que<g ref="char:EOLhyphen"/>ſtion, either about the Soul, as when, or how it comes into the Child's Body, it's probable, that as it ſur<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſſeth my Knowledge, either of Phyſicks or Metaphyſicks, ſo it ſurpaſſeth his alſo, and perhaps of moſt Men. His pleaſing himſelf to requently with his jocund Humour on this and other Heads, without any juſt Occa<g ref="char:EOLhyphen"/>ſion given, whereby to render the <hi>Hy<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>otheſis</hi> of the <hi>Revolutions</hi> ridiculous, is more like to have a contrary Effect upon himſelf; as if at this rate, a Woman might be with Child without a Man, or that <hi>Abraham</hi> did not beget <hi>Iſaac,</hi> which are but ridiculous Conſequences of his own framing, having no <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſt Ground or Foun<g ref="char:EOLhyphen"/>dation from the <hi>Hy<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>otheſis</hi> i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſelf.</p>
+            <p>Another of his wild and ridiculous Conſe<g ref="char:EOLhyphen"/>quences is, that a Man may beget his own Grand father and Grand-mother, alſo that Men
+<pb n="40" facs="tcp:37358:23"/>may be their own Fathers, and thus the Genea<g ref="char:EOLhyphen"/>logy of <hi>Adam</hi> ſhall be confounded, and there ſhall not be ſeven Generations or Perſons, from <hi>Adam</hi> to <hi>Enoch,</hi> tho' the Scripture calleth them ſeven.</p>
+            <p>
+               <hi>Reply.</hi> All this wild and ridiculous way of reaſoning proceedeth not from any Abſurdity of the <hi>Hypotheſis</hi> it ſelf, but from his great Igno<g ref="char:EOLhyphen"/>rance, as touching the ſeveral Parts, Stroaks &amp; Lineaments of it, as aſſerted by its chief Fa<g ref="char:EOLhyphen"/>vourers, the <hi>Cabbaliſt</hi> Writer; therefore in or<g ref="char:EOLhyphen"/>der to help him to a better underſtanding of the <hi>Hypotheſis,</hi> let him know, that they commonly teach, that every Child that is born into the World, beſide the Soul or Souls that revolve in the Body of that Child hath a Soul, that is moſt properly the Soul of that Child, and which is commonly a new Soul, as formerly deſcrib'd; but theſe revolved Souls, ſuppoſe of the Child's Grand father, are but Inmates in com<g ref="char:EOLhyphen"/>pariſon to that other Soul, that is the only pro<g ref="char:EOLhyphen"/>per Soul of the Child, and this maketh no con<g ref="char:EOLhyphen"/>fuſion at all, to ſay, the Soul of the Grand fa<g ref="char:EOLhyphen"/>ther may lodge in, or impregnate the Body of the Grand-child, more than to ſay, the Soul of the Grand-child did formerly lodge in, or im<g ref="char:EOLhyphen"/>pregnate the Body of the Grand-father; as that <hi>Levi</hi> was in <hi>Abraham</hi>'s Loins, which the Scrip<g ref="char:EOLhyphen"/>ture expreſly declares, yea, and paid tyths in <hi>Abraham.</hi> Beſides, that it is not probable, nor
+<pb n="41" facs="tcp:37358:23"/>allowed, that the Souls of theſe worthy Men, as <hi>Abraham, Iſaac</hi> and <hi>Jacob,</hi> and many others, either needed, or had any <hi>Revolution</hi> in their Children. The only moſt ſeeming difficulty on this Head is, if divers Souls by <hi>Revolution,</hi> live together in one Body, with that call'd the new Soul, that is, moſt properly the peculiar Soul of that Body; if theſe Souls attain to a perfect Reſtitution in that Body whoſe ſhall that Body be at the Reſurrection, or which of theſe Souls ſhall have it? But this may be ſome way an<g ref="char:EOLhyphen"/>ſwer'd by the Similitude of a Grain of <hi>Corn</hi> that is ſown in the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arth; how out of it divers Stalks and Eares of Corn, and many Grains ariſe, each Grain as full as that ſingle Grain that was ſown; for tho' the groſs viſible Body of a Man be but one, yet ſo much of Spiritual parts of Bodies may be lodged within that Shell or Husk of the groſs viſible Body, as may ſuffice to be Seeds, or Se<g ref="char:EOLhyphen"/>minal Principles to as many Bodies, as there are Souls lodged within that one Body. And thus, as the Scripture teacheth <hi>Every Seed ſhall have its own Body; for thou ſoweſt not the Body that ſhall be, but bare or naked Grain,</hi> &amp;c. See 1 <hi>Cor.</hi> 15.</p>
+            <p>The diſtinction betwixt Revolution and Im<g ref="char:EOLhyphen"/>pregnation, the <hi>Cabbaliſt,</hi> or <hi>Myſtick Hebrew</hi> Au<g ref="char:EOLhyphen"/>thors hold to be this; that the Soul that re<g ref="char:EOLhyphen"/>volveth into a Child's Body, cometh into that Body immediately after the Child is born into the World, ſo is not convey'd from the Father
+<pb n="42" facs="tcp:37358:24"/>of the Child, but cometh <hi>ab extra,</hi> i. e. <hi>from with<g ref="char:EOLhyphen"/>out;</hi> but the Soul that doth impregnate ano<g ref="char:EOLhyphen"/>ther Body, cometh not into that Body when it is newly born, but ſome conſiderable time thereafter, as at the age of 20 or <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0 Years.</p>
+            <p>But that beſides the Soul, that is the moſt proper and peculiar Soul of the Child's Body, which the Child receiveth from the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ather, not by Generation, but by Conveyance, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>even as Water is conveyed out of one Veſſel into ano<g ref="char:EOLhyphen"/>ther another Soul may come into the ſame Body by Revolution or Impregnation, (which two they diſtinguiſh) they prove from <hi>Gen.</hi> 46.12. where it is ſaid, that <hi>Er</hi> and <hi>Onan</hi> died in the Land of <hi>Canaan,</hi> and yet they are numbred to be of the 70 Souls that went down into <hi>Egypt;</hi> therefore they muſt needs have revolv'd into ſome of their Brethren, and that moſt probably <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>harez</hi> and <hi>Zarah,</hi> who were born to <hi>Jud<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> their Father, after they (viz. <hi>Er</hi> and <hi>Onan</hi>) died.</p>
+            <p>That <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ew or none have deliver'd their thoughts about the <hi>Revolutions</hi> when they died, is no Argument againſt it, tho' he make it one; good Men do not revolve commonly, and what bad Men ſay, is little to be minded, tho' <hi>Balaan</hi> ſeem'd to Propheſie of his Revolution in theſe words, that may be read Prophetically in the future; <hi>I ſhall die the Death of the Righteous, and my laſt end ſhall be like his,</hi> and yet his Death was not ſuch as to that time of Life; as alſo his
+<pb n="43" facs="tcp:37358:24"/>Prophecy that he ſhould ſee Chriſt, but not near, which <hi>Origen</hi> takes to be ſpoke Prophe<g ref="char:EOLhyphen"/>tically; but how could this be true, if he did not revolve in one of them. See <hi>Origen, Hom.</hi> 15. <hi>in num. Ipſe velut de ſeipſo Prophetans dicit, moriatur Amma mea inter Animas juſtorum, &amp; fiat ſemen meum ſicut ſemen juſtorum:</hi> In Engliſh thus: he (to wit <hi>Balaam</hi>) as prophecying of himſelf, ſaith, <hi>Let my Soul die among the Souls of the Righteous, and let my Seed be as the Seed of the Righteous;</hi> ſo the <hi>Septuagint,</hi> as to this latter part of the Verſe, <hi>Numb.</hi> 23.10. but in the for<g ref="char:EOLhyphen"/>mer part he ſeems expreſly to hold forth the Me<g ref="char:EOLhyphen"/>tempſychoſis, or Tranſanimation, according to the <hi>Septuagint</hi> Verſion, the words are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, i e. <hi>Let my Soul die in the Souls of the Righteous;</hi> and that the wiſe Men, or <hi>Magi,</hi> of the <hi>Eaſt,</hi> who come to wor<g ref="char:EOLhyphen"/>ſhip the Child Jeſus, had their Deſcent from him, and their Knowledge or Inſtitution; he ſaith expreſly, <hi>Hom.</hi> 14. <hi>in num. <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>x illo deni<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> fertur Majorum genus, &amp; in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tutio in partibus Ori<g ref="char:EOLhyphen"/>entis vigere — &amp; ideo quando Natus eſt Jeſus, agnoverunt ſtellam, &amp; intellexerunt adi<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>i pro<g ref="char:EOLhyphen"/>phetiam magis quam populus Iſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ael:</hi> In Engliſh thus; <hi>Of him the Kindred of</hi> Magi <hi>is ſaid to have come, and their Inſtitution or Learning to have grown in the Eaſtern parts,— and therefore when Jeſus was born they knew the Star,</hi> (<hi>viz.</hi> that he pro<g ref="char:EOLhyphen"/>pheſied of <hi>Numb.</hi> 24.17.) <hi>and underſtood that
+<pb n="44" facs="tcp:37358:25"/>the Prophecy was fulfilled more than the Pe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of</hi> Iſrael.</p>
+            <p>Theſe words in <hi>Pſal.</hi> 78.39. <hi>God remembe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that we are but Fleſh and Wind, that paſſeth an<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and cometh not again;</hi> ſay nothing againſt the <hi>Revolutions,</hi> more than againſt the <hi>Reſurrecti<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> for it is granted, the groſs and viſible Body <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Fleſh cometh not again. as no more is it raiſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> out of the Grave in that groſs Capacity, as i<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> deed no more could that Soul come again by a<g ref="char:EOLhyphen"/>ny Power of its own; but as it is ſent, or com<g ref="char:EOLhyphen"/>manded according to <hi>Pſal.</hi> 90. <hi>Thou turneſt M<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to Deſtruction,</hi> and again thou ſaieſt, <hi>return <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Sons of Men:</hi> And to his Inſtances of dive<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Holy Men, that ſignified they had no Expecta<g ref="char:EOLhyphen"/>tion to live again on Earth in a viſible and gr<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Body, it is granted; for the <hi>Hypotheſis</hi> of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Revolutions</hi> doth not aſſert, that the Saints li<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> again until the Reſurrection of the Dead, wh<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> they ſhall be raiſed, to live in Spiritual Bodies <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> but the Revolution is of ſuch as are not Saints<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in order to their becoming Saints. And as t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that in <hi>Job</hi> 7. <hi>v.</hi> 9, 10. <hi>he that goeth down to t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Grave, cometh up no more,</hi> it is granted; th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> groſs and viſible Body <hi>cometh up no more,</hi> neither to revolve, nor to be raiſed from the Dead<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which is all that place proveth.</p>
+            <p>As to his ſenſible demonſtration, it is ground<g ref="char:EOLhyphen"/>ed on a falſe Foundation, which is his own gro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> miſtake in ſeveral Particulars; one is, that th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="45" facs="tcp:37358:25"/>Soul undergoes 12 Revolutions in the ſpace of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>000 Years, and that conſequently odd Months and Days, which miſtake being noted above, I need ſay no more to it here; but if the Soul's abſence be not above one Year from the Body, as in ſome caſes it may happen, as hath been ſaid above, it gives his ſenſible Demonſtration no ſtrength: His other miſtake is, that the Soul by its Magnetick Virtue (by this <hi>Hypotheſis</hi>) draws to it the groſs &amp; viſible Particles of the groſs &amp; viſible Body of Fleſh and Bones, but ſuppoſing a Magnetick Virtue, it is not ſuppoſed, that it draws the groſs and viſible Parts or Particles of it, leaving the groſs Body of Skin and Bones, or dried Fleſh behind, ſo that his Inſtance of embalmed Bodies, and <hi>Popiſh</hi> Relicks of dead Men's Bones, ſerve nothing his turn.</p>
+            <p>That place of Scripture, cited by him, <hi>Heb.</hi> 9.27. To diſprove the <hi>Hypotheſis</hi> of the <hi>Revo<g ref="char:EOLhyphen"/>lutions,</hi> will not ſerve his turn; for the moſt it proveth is, that all Men die once, but it ſaith not that Men never died, or ſhall die more but once; for ſome that were raiſed from the Dead, died twice, as is generally confeſs'd, but the time that Chriſt ſuffer'd for Men's Sins, be<g ref="char:EOLhyphen"/>ing the fulneſs of time, many were then in their laſt Revolution, and ſo were to die yet once, and but once. See Query 45. in the Treatiſe of 200 Queries.</p>
+            <p>His laſt Reaſon, that this Doctrine, if be<g ref="char:EOLhyphen"/>liev'd,
+<pb n="46" facs="tcp:37358:26"/>would lead Men into Security, is as invalid as any of the former, as if they cannot remember that they liv'd before, they muſt conclude they have 11 times of Life yet be<g ref="char:EOLhyphen"/>hind; but I deny his Conſequence. That it is reported of <hi>Pythagorus,</hi> that he did remember that he had formerly liv'd, this doth not make his Reaſon good; for firſt, every Report is not true; ſecondly; if the Report be true, the Caſe muſt be ſingular, or extraordinary in him. But that as his laſt Strength, he ſaith, <hi>A Man is ſure that it is eleven to one; but that he ſhall have another Revolution, which is odds enough on the Sinner'<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſide:</hi> I anſwer, he is not ſure; but ra<g ref="char:EOLhyphen"/>ther it is eleven to one that he ſhall not have a<g ref="char:EOLhyphen"/>nother Revolution<g ref="char:punc">▪</g> but ſuppoſe he could be ſure to have another, I ſay, that Surety hath no more direct Tendency to lead him into a ſin<g ref="char:EOLhyphen"/>ful Security, than <hi>Hezekiah</hi> his being ſure that God would add 15 Years to his Life, could lead him into a ſinful Security; for we ought to di<g ref="char:EOLhyphen"/>ſtinguiſh betwixt the right uſe of a thing, and the abuſe of it, or in other terms, betwixt <hi>Cau<g ref="char:EOLhyphen"/>ſa per ſe,</hi> and <hi>cauſa per accidens;</hi> a direct, or indirect, and accidental Cauſe.</p>
+            <p>That he blames the Enquirer for his defect of Modeſty, becauſe, according to him, if they will not anſwer him, he concludes it is becauſe they are ignorant and unable; but if they will anſwer him, then he will charge them with
+<pb n="47" facs="tcp:37358:26"/>Atheiſm: I think the Author deſerves rather to be blamed, for his unfair repreſenting him; for the Enquirer doth not ſimply charge them with Atheiſm, for anſwering fairly, but for exclaiming a<g ref="char:EOLhyphen"/>gainſt it, and calling it damnable Doctrin. Again, the Enquirer is not ſo uncharitable as to judge that every Man is an Atheiſt, that doth not believe the Doctrin of the <hi>Revolutions,</hi> only he declareth freely, (without any Immodeſty) what the Logical Conſe<g ref="char:EOLhyphen"/>quence of that Doctrin is, that denieth the Return, or Revolution of Souls, which is to deny divers of the Glorious Attributes of God, and what is that but to deny God himſelf, ſeeing theſe Glorious At<g ref="char:EOLhyphen"/>tribute<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of God are his eſſential Perfections, as to be Merciful, Gracious, Long-ſuffering, abundant in Goodneſs and Truth, abundantly Pardoning; but that God ſhould eternally damn many Thouſands, and 10000s of Men to Hell-fire, who never had more time to repent in, or amend their Life, but a few years; as ſuppoſe to ſome 70 or 80, to many more, not 40, and to very many, not 20 yea not 10, and ſome that die in Infancy, that to be ſure are not generally, or univerſally ſanctified, and therefore are not fitted for Heaven, and to give them no other time of Life, ſeemeth to the Enquirer a plain de<g ref="char:EOLhyphen"/>nial of theſe moſt Glorious Attributes of God, his being ſo abundantly Merciful, Gracious, and Long-ſuffering, and conſequently by a Logical Inference, a plain denial of the true God; but yet it is not e<g ref="char:EOLhyphen"/>very thing that may be made a Logical Inference againſt a Man's <hi>Opinion,</hi> that ought to conclude him practically as bad as the <hi>Opinion</hi> it ſelf is: And ſuch is the preſent Caſe with the Inquirer, who doth cha<g ref="char:EOLhyphen"/>ritably believe that many pious and good Men do not believe the Doctrin of the <hi>Revolution of Humane
+<pb n="48" facs="tcp:37358:27"/>Souls,</hi> and ſo are no guilty of Atheiſm, properly and directly, only he tells them what their denial of ſuch a Doctrin may Logically infer, and what is the ten<g ref="char:EOLhyphen"/>dency of it, I am ſure much more to Atheiſm, than the believing the Doctrin of the Return of Souls, as duly repreſented, leads to careleſs Living, or ſinful Security, which is a ſort of practical Atheiſm; and ſeeing this Author thinks not himſelf chargeable with Immodeſty, for telling the Inquirer that his <hi>Opinion</hi> leads to careleſs Living, that is a ſort of Practical <hi>Atheiſm,</hi> no more doth the Inquirer think himſelf chargeable with Immodeſty, for plainly telling him that his contrary <hi>Opinion</hi> leads conſe<g ref="char:EOLhyphen"/>quentially to that, which may be called <hi>Atheiſm.</hi>
+            </p>
+            <p>Thus I ſufficiently with great briefneſs and plaineſs anſwer'd (as I hope every Impartial and Intelligent Reader will per<g ref="char:EOLhyphen"/>ceive) to every thing that ſeem'd Material in this Authors Treatiſe againſt this harmleſs <hi>Opinion,</hi> at which he ſeem'd ſo much prejudiced, and I think he will ſay, I have Treated him gently, being loth to exaſperate him, conſidering (what he profeſſeth himſelf to be) that he is young, and hath not had much Reading or Experience, eſpecially in this ſort of <hi>Myſtick</hi> Learning, and is not acquainted with the ſeveral neceſſary parts of the <hi>Hypotheſis,</hi> that ſerve to make it duly intelligible, in order, either to its Refutation or Confirmation: But if <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be deſirous to know further concerning the <hi>Hypotheſis</hi> it ſelf, and the parts, and other Circumſtantial things to it, I com<g ref="char:EOLhyphen"/>mend to his reading. Read <hi>Iſaac Lorienſis</hi> his Latin Treatiſe, tranſlated out of Hebr. <hi>in Cabbala de nudata. Tom.</hi> 2. <hi>de Revoluti<g ref="char:EOLhyphen"/>onibus Animarum,</hi> bound up with other Treatiſes, Alſo <hi>H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ont</hi>'s <hi>Agreement of the Macrocoſm and Microcoſm,</hi> and his <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Treatiſe of the <hi>Divine Attributes,</hi> and the Book, lately printe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> at <hi>London,</hi> call'd <hi>Seder Olam;</hi> not that I would have him take for truth all that he reads in theſe Books, but let him read, and well conſider, and then judge. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
